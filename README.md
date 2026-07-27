@@ -1,5 +1,7 @@
-ConstrID-Dataset
+# ConstrID-Dataset
 
+ConstrID-Dataset
+# 
 **ConstrID: A Hybrid Benchmark of Real and Synthetic Images for Construction Worker Re-Identification**
 
 ConstrID-Dataset is a construction-specific person re-identification (ReID) benchmark containing real-world surveillance images and AI-generated synthetic images. It was developed to support academic research on worker identification, cross-camera retrieval, visual tracking, and intelligent construction safety.
@@ -78,17 +80,22 @@ Subject to approval and the conditions below, ConstrID-Dataset may be used for n
 
 ## Requesting Access
 
-The dataset is not provided through a public direct-download link. Researchers who wish to use ConstrID-Dataset should complete the academic access request form:
+The dataset is not provided through a public direct-download link. Researchers who wish to use ConstrID-Dataset must first complete the academic access application form:
 
-**[Complete the ConstrID academic access request form](DATASET_ACCESS_FORM_URL)**
+**[Download the ConstrID-Dataset Academic Access Application Form](./ConstrID_Dataset_Access_Application_Form.docx?raw=1)**
+**[Download the ConstrID-Dataset Academic Access Application Form](./ConstrID_Dataset_Access_Application_Form.docx)**
 
-Please provide:
+Please follow these steps:
 
-- your full name, academic email, institution, and position;
-- the title and purpose of your research;
-- your planned methods and intended use of the dataset;
-- expected research outputs and access period; and
-- confirmation that you accept the academic-only, non-commercial use conditions.
+1. Download the Word application form.
+2. Complete all required fields, including your academic affiliation, contact details, research purpose, intended use, planned methods, expected outputs, access period, and data-management arrangements.
+3. Read and accept the academic-only, non-commercial use conditions, then sign and date the declaration.
+4. Save the completed form as `FullName_Institution_ConstrID_Application.docx`.
+5. Email the completed form as an attachment to [lijiaqi@ustl.edu.cn](mailto:lijiaqi@ustl.edu.cn).
+
+Suggested email subject:
+
+`[ConstrID Access Request] Full Name - Institution`
 
 Submitting a request does not guarantee access. Applications are reviewed by the dataset team, and additional information may be requested.
 
@@ -133,7 +140,7 @@ For questions about the dataset or access policy, contact:
 School of Civil Engineering, University of Science and Technology Liaoning  
 Email: [lijiaqi@ustl.edu.cn](mailto:lijiaqi@ustl.edu.cn)
 
-Please use the access request form for dataset applications so that all required information is included.
+For a dataset application, please download the Word form above and email the completed document to this address.
 
 ## Authors
 
