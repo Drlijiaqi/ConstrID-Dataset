@@ -82,7 +82,7 @@ Subject to approval and the conditions below, ConstrID-Dataset may be used for n
 
 The dataset is not provided through a public direct-download link. Researchers who wish to use ConstrID-Dataset must first complete the academic access application form:
 
-**[Download the ConstrID-Dataset Academic Access Application Form](./ConstrID_Dataset_Access_Application_Form.docx?raw=1)**
+**[Download the ConstrID-Dataset Academic Access Application Form](./ConstrID_Dataset_Access_Application_Form.docx)**
 
 Please follow these steps:
 
